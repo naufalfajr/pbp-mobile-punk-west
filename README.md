@@ -1,16 +1,9 @@
 # punkwest
 
-A new Flutter project.
+Aplikasi Punk West untuk memenuhi tugas PBP.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+oleh:
+Muhammad Naufal Fajri (24060118130087)
+Husein Arief Budiman (24060118130097)
+Rizky Muhammad Baihaqy (24060118130131)
+Widi Lukman Santoso (24060118130078)
